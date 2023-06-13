@@ -10,3 +10,5 @@ console.log(123 + 333);
 //pozdrav iz test brancha
 
 console.log("ovo je dev branch");
+
+//mergano i sa testa na master sada
